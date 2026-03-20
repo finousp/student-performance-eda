@@ -95,3 +95,7 @@ Potential extensions of this analysis include:
 - Validating the findings on real-world educational datasets.
 
 ---
+## 👤 Author
+
+Finous P
+---
